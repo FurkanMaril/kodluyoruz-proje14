@@ -1,0 +1,15 @@
+.msg{
+    padding: 8px 16px;
+    font-size: 24px;
+    display: inline-block;
+}
+
+.text-succesfull{
+    background-color: #198754;
+    color: #fff;
+}
+
+.text-danger{
+    background-color: #dc3545;
+    color: #fff;
+}
